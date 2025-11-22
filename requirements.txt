@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+scapy
+geoip2
+requests
+python-multipart

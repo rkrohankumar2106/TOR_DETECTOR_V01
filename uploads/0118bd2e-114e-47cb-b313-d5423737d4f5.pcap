@@ -1,0 +1,5 @@
+# This is a dummy file to simulate a PCAP upload.
+# In a real scenario, this would be a binary PCAP file.
+# Scapy will likely fail to read this as a valid PCAP, 
+# but it tests the endpoint's file handling and error path.
+DUMMY_DATA
